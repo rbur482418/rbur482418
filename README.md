@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently working on Tech Elevator's bootcamp. It's a lot of fun so far!
+I'm learning formal logic, javaScript, java, and so much more!
+Ask me about existential philosophy or metaethics before programming and development questsions.
+My pronouns are any/all. I tend to prefer they/it but he/she as well as any neopronouns are fine as well.
+Fun fact: everything is a subset of the mind...at least from my perspective.
+
 <!--
 **rbur482418/rbur482418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
